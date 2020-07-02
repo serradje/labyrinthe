@@ -24,4 +24,4 @@ ou avec pixel:
 a -> pour chemin aleatoire
 h -> pour chemin heuristique
 d -> dijkstra
-* ou A -> A star
+"*" ou A -> A star
