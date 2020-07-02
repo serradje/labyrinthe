@@ -1,11 +1,12 @@
 # labyrinthe
+============
 
 
 #mode d'uitlisation
 pour générer le labyrinthe : 
 =============================
 ./bin/genlab -v -d -l 250 -h 250 -p 4 fichier.txt.
-ou sans le pixel:.
+ou sans le pixel:
 ./bin/genlab -v -d -l 250 -h 250 fichier.txt.
 
 
@@ -24,4 +25,4 @@ ou avec pixel:
 a -> pour chemin aleatoire.
 h -> pour chemin heuristique.
 d -> dijkstra.
-<* ou A -> A star.
+* ou A -> A star.
